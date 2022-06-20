@@ -18,3 +18,4 @@ namespace BrunoMikoski.Pooling
 
 // Add a comment.
 // Add another comment.
+// Final comment for testing.
