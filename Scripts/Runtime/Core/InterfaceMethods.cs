@@ -15,3 +15,5 @@ namespace BrunoMikoski.Pooling
         void OnDespawn();
     }
 }
+
+// Add fake test 2.
