@@ -15,3 +15,5 @@ namespace BrunoMikoski.Pooling
         }
     }
 }
+
+// Add a comment.
